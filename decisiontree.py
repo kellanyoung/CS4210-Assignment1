@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Kellan Young
 # FILENAME: Assignment1
-# SPECIFICATION: description of the program
+# SPECIFICATION: Train and plot a depth-2 decision tree for contact lens dataset
 # FOR: CS 4210- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 1 hour and 30 minutes
 #-----------------------------------------------------------*/
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
 # dictionaries, lists, and arrays
